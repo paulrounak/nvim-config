@@ -3,19 +3,21 @@
 ~/.config/nvim
 ├── init.lua
 ├── lazy-lock.json
-└── lua
-    ├── config
-    │   └── lazy.lua
-    └── plugins
-        ├── completions.lua
-        ├── gitsigns.lua
-        ├── lsp-config.lua
-        ├── lualine.lua
-        ├── neotree.lua
-        ├── none-ls.lua
-        ├── telescope.lua
-        ├── tokyonight.lua
-        └── treesitter.lua
+├── lua
+│   ├── config
+│   │   └── lazy.lua
+│   └── plugins
+│       ├── cfhelper.lua
+│       ├── completions.lua
+│       ├── gitsigns.lua
+│       ├── lsp-config.lua
+│       ├── lualine.lua
+│       ├── neotree.lua
+│       ├── none-ls.lua
+│       ├── telescope.lua
+│       ├── tokyonight.lua
+│       └── treesitter.lua
+└── README.md
 ```
 
 ## Preview
