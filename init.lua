@@ -5,6 +5,7 @@ vim.cmd("set shiftwidth=2")
 vim.cmd("set number relativenumber")
 
 require("config.lazy")
+-- require("cfhelper")
 vim.cmd([[colorscheme tokyonight-moon]])
 
 vim.keymap.set("n", "<C-n>", ":Neotree filesystem reveal left<CR>")
