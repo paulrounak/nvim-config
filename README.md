@@ -7,7 +7,6 @@
 │   ├── config
 │   │   └── lazy.lua
 │   └── plugins
-│       ├── cfhelper.lua
 │       ├── completions.lua
 │       ├── gitsigns.lua
 │       ├── lsp-config.lua
